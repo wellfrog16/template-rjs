@@ -1,0 +1,9 @@
+# 发布文件夹
+buile/
+*/build/
+
+
+# vs配置文件
+.vscode/
+
+
